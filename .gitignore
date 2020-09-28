@@ -1,3 +1,6 @@
 *.swp
-__pycache__/*.pyc
-
+__pycache__
+Models/*.tar.gz
+Models/*.th
+Output/*
+Tweets/*.txt
