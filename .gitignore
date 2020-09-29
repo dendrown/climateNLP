@@ -1,5 +1,6 @@
 *.swp
 __pycache__
+.ipynb_checkpoints/*
 Models/*.tar.gz
 Models/*.th
 Output/*
